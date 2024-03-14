@@ -1,0 +1,26 @@
+name: DAVPy_demos
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - jupyterlab
+  - scikit-image
+  - cellpose
+  - seaborn 
+  - dask
+  - distributed 
+  - napari 
+  - pyqt
+  - streamlit
+  - scikit-learn
+  - spacy
+  - pytorch::pytorch
+  - pytorch::torchvision
+  - voila 
+  - ipympl
+  - transformers
+  - zarr
+  - s3fs
+  - python-graphviz
+  #- pip:
+      #- spectral
