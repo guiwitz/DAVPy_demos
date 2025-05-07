@@ -25,3 +25,5 @@ dependencies:
   - zarr
   - s3fs
   - python-graphviz
+  - pip:
+    - qwen-vl-utils
